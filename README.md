@@ -1,0 +1,2 @@
+# megdp
+az CLI extenstion
